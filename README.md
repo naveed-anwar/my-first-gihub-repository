@@ -1,3 +1,3 @@
 # my-first-gihub-repository
 
-THis file is mdified locally!
+This file is edited manually while resolving conflicts.
